@@ -3,6 +3,7 @@ title: "ImportShield Documentation"
 description: "ImportShield for Unity — the import safety net and reference repair suite: pre-import snapshots, package preflight verdicts, blast-radius maps, evidence-scored repairs, and fail-closed transactional rollback."
 url: "https://decnet-games.github.io"
 baseurl: "/ImportShield-DOC"
+permalink: pretty
 
 # Just the Docs theme via GitHub Pages remote_theme (Do NOT set 'theme: just-the-docs' as github-pages gem does not bundle it)
 remote_theme: "just-the-docs/just-the-docs"
